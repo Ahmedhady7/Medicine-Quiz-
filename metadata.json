@@ -1,0 +1,5 @@
+{
+  "name": " Medicine Quiz 1",
+  "description": "An advanced medical quiz platform that generates up to 200 MCQ and True/False questions from uploaded documents using Gemini AI, featuring subject/chapter organization and detailed statistics.",
+  "requestFramePermissions": []
+}
